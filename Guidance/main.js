@@ -1,5 +1,3 @@
-//https://github.com/ycraaron/LuotuoCoin
-
 // 区块链
 // block
 // chain
